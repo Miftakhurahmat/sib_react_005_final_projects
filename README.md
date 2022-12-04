@@ -1,10 +1,7 @@
-
 # Website News
 
 Pada projek ini kami ditugaskan untuk melakukan tugas akhir yang berbentuk apllikasi react native. apps ini bertemakan Booking Hotel yang menggunakan API publik dari Rapid API.  
 versi lengkap dokumentasi : [notion](https://forest-elephant-f34.notion.site/Applikasi-Booking-92dba0adc4a54dcbb43ea63fe4428257)
-
-
 
 ## Member
 
@@ -15,21 +12,19 @@ versi lengkap dokumentasi : [notion](https://forest-elephant-f34.notion.site/App
 ## Information
 
 1. GitHub:
-https://github.com/Penzslyr/SIB_React_005_FP3
+   https://github.com/Penzslyr/SIB_React_005_FP3
 2. Notion:
-https://forest-elephant-f34.notion.site/Applikasi-Booking-92dba0adc4a54dcbb43ea63fe4428257
+   https://forest-elephant-f34.notion.site/Applikasi-Booking-92dba0adc4a54dcbb43ea63fe4428257
 3. Figma:
-https://www.figma.com/file/YP8nB2qS4vRJG7fJYU8PBD/Final-Project-3?t=umOD7Sv8BJTVJrpg-0
+   https://www.figma.com/file/YP8nB2qS4vRJG7fJYU8PBD/Final-Project-3?t=umOD7Sv8BJTVJrpg-0
 4. Trello:
-- 
-
+   https://trello.com/b/XbZ6yHf9/final-project-3
 
 ## Tech Stack
 
 **Client:** React, Redux, React Native, React Navigation, Tailwinds
 
 **Api:** https://rapidapi.com/3b-data-3b-data-default/api/airbnb13/
-
 
 ## Run Locally
 
@@ -56,4 +51,3 @@ Start the server
 ```bash
   npm run start / expo start
 ```
-
