@@ -18,7 +18,7 @@ versi lengkap dokumentasi : [notion](https://forest-elephant-f34.notion.site/App
 3. Figma:
    https://www.figma.com/file/YP8nB2qS4vRJG7fJYU8PBD/Final-Project-3?t=umOD7Sv8BJTVJrpg-0
 4. Trello:
-   https://trello.com/b/XbZ6yHf9/final-project-3
+   https://trello.com/invite/b/XbZ6yHf9/ATTI72d8f2f3f8dd90d72dc5367da949420787A94079/final-project-3
 
 ## Tech Stack
 
